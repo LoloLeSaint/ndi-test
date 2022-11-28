@@ -6,11 +6,6 @@
   box-sizing: border-box;
 }
 
-body {
-  font-family: "Nunito", sans-serif;
-  color: #384047;
-}
-
 form {
   max-width: 300px;
   margin: 10px auto;
